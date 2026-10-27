@@ -1,0 +1,20 @@
+{
+  "kind": "asmr-translation-pack-catalog",
+  "version": 1,
+  "id": "rogent-asmr-ja-zh",
+  "name": "ASMR 日中翻译词组包",
+  "license": "CC-BY-SA-4.0",
+  "repository": "https://github.com/RoGent-Z/asmr-zh-translation-pack",
+  "releases": [
+    {
+      "version": "0.0.1",
+      "minAppVersion": "0.1.3",
+      "dictionaryVersion": "ja-zh-v1-20261013",
+      "bytes": 386535,
+      "sha256": "d2026f97bba761341a28c8801463b230a4a9af0cc4d1d82eefb1465cdd398641",
+      "url": "https://raw.githubusercontent.com/RoGent-Z/asmr-zh-translation-pack/refs/tags/v0.0.1/packs/asmr-ja-zh.json",
+      "phrases": 0,
+      "glosses": 5433
+    }
+  ]
+}

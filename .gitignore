@@ -1,0 +1,14 @@
+node_modules/
+reports/
+tmp/
+*.sqlite*
+*.db
+*.vtt
+*.srt
+*.ass
+*.ssa
+*.lrc
+*.mp3
+*.wav
+.env*
+private-analysis/
