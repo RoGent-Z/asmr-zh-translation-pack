@@ -16,5 +16,19 @@
       "phrases": 0,
       "glosses": 5433
     }
+  ],
+  "experimentalReleases": [
+    {
+      "version": "0.0.2",
+      "minAppVersion": "0.1.5",
+      "schemaVersion": 2,
+      "channel": "experimental",
+      "dictionaryVersion": "ja-zh-v1-20261013",
+      "bytes": 2955493,
+      "sha256": "396a3cef93fb37cd613cc976d0d4ff2b39a1286306951a1df02f42a5066d4b8c",
+      "url": "https://raw.githubusercontent.com/RoGent-Z/asmr-zh-translation-pack/refs/tags/v0.0.2/packs/asmr-ja-zh.json",
+      "phrases": 0,
+      "glosses": 5433
+    }
   ]
 }

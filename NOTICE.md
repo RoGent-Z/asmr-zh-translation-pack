@@ -1,5 +1,7 @@
 # Data attribution and modifications
 
+Version 0.0.2 adds group-normalized candidate probabilities and Chinese collocation frequencies derived locally, retaining licensed dictionary alternatives across senses/entries without publishing subtitle text. The frozen v0.0.1 preferences remain unchanged. Candidate membership and attribution were checked at export; aggregate frequencies are not an accuracy guarantee. Local dataset originals, paired sentences, work IDs and databases are not redistributed. This extension has the same CC BY-SA 4.0 data license. The standalone schema validator under tools/ is original MIT code from the player project.
+
 The package data and catalog are distributed under CC BY-SA 4.0:
 https://creativecommons.org/licenses/by-sa/4.0/ (full text in LICENSE).
 
