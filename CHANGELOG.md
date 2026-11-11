@@ -1,5 +1,12 @@
 # Changelog
 
+## v0.0.3 experimental — 2026-11-11
+
+- Schema v2 supports player v0.1.5 and later. The recommended stable version is v0.0.1.
+- Keeps 5,433 frozen gloss preferences, with 47 source forms, 318 licensed candidates, 20,000 unigram frequencies and 15,000 collocation transitions.
+- Parallel data covers 1,154 pairs from 9 groups. Training used 29 pairs from 5 groups and development used 1,125 pairs from 4 groups. Chinese collocation statistics used 2,942 groups. Development translations matched the stable baseline and there were no new independent test pairs.
+- The downloadable JSON is 3,002,380 bytes. SHA-256 `dae6ac679b2d2340dee706992827d1e24bf302878fb628fe2285c4c58762d34f`.
+
 ## v0.0.2 experimental — 2026-10-29
 
 - Schema v2; minimum player v0.1.5. Stable recommendation remains v0.0.1.

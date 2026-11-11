@@ -1,6 +1,6 @@
 # Package and catalog contract
 
-## v2 matrix extension (package 0.0.2, minimum player 0.1.5)
+## v2 matrix extension (packages 0.0.2 and 0.0.3, minimum player 0.1.5)
 
 Numeric schema `version: 2` retains v1 entries/glosses and requires package metadata plus `matrix`. The independent schema validator is `tools/local-matrix-schema.mjs`, synchronized with player v0.1.5. It validates structure, not license membership; the local export checks every candidate against the pinned licensed dictionary.
 
